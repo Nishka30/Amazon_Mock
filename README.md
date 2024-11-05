@@ -2,7 +2,7 @@
 🌐 SHOPHUB APP
 </h1>
 
-# ZOROX Assignment.
+# ZOROZ Assignment.
 
 ---
 
